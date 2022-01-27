@@ -1,0 +1,42 @@
+body{
+    text-align:center;
+    background-color:rgb(159, 183, 185);
+}
+img {   
+    border-radius: 90%;
+    border:solid;
+    border-color: rgb(230, 175, 46);     
+    border-width: 10px;
+}
+h1 {
+    font-family:Dongle-Bold, sans-serif;;    
+    src: url(Dongle-Bold.ttf);
+    color: rgb(86, 65, 56);
+}
+h3 {
+    font-family:Dongle-Bold, sans-serif;;    
+    src: url(Dongle-Bold.ttf);
+    color: rgb(86, 65, 56);
+}
+p{
+    font-family:Dongle-Bold, sans-serif;;    
+    src: url(Dongle-Bold.ttf);
+}
+    .sublinhado {
+    text-decoration: rgb(59, 66, 159) underline;
+}
+li {
+    line-height: 20px;
+}
+.Botão {
+    line-height: 35px;
+    color: white;
+    background-color: rgb(59, 66, 159);
+    padding: 5px;
+    border-radius: 10%;
+}
+.lista {
+    font-style: oblique;
+    text-decoration: rgb(59, 66, 159) underline;
+
+}
